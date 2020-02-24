@@ -1,2 +1,2 @@
-name: gabi magilner last
+name: gabi magilner
 email: gabilner@gmail.com
