@@ -1,2 +1,10 @@
 name: gabi magilner
 email: gabilner@gmail.com
+
+
+
+I have also changed the vagrantfile with:
+•	virtualbox__intnet: "NatNetwork"
+•	and added to virtual box nat network with the name " NatNetwork"
+•	just in case the vagratfile wont work at your computer
+•	I changes it because it gave me an error and that was the only way to fix it
